@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string-array name="companies_array">
+    <item>ABB</item>
+    <item>Apple</item>
+    <item>Google</item>
+    <item>IBM</item>
+    <item>Microsoft</item>
+    <item>Nokia</item>
+    <item>Oracle</item>
+    <item>Samsung</item>
+    </string-array>
+</resources>
